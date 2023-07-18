@@ -1,0 +1,22 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnClear
+id btnSave
+id img
+id list
+id nombre
+id textView2
+id txt_list
+layout activity_main
+layout contex_list
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Lista
+style Theme.Lista
+xml backup_rules
+xml data_extraction_rules
